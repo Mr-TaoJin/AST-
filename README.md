@@ -14,6 +14,8 @@ npm publish
 5. 如发布成功，则再次将仓库地址设为淘宝镜像地址
 npm config set registry=https://registry.npm.taobao.org/
 
+<!-- 文章地址 -->
+https://mp.weixin.qq.com/s/We_vEDfKKLXKfhT0sKvkFw
 
 #版本安装
 npm i exportific_jin.tao -s
